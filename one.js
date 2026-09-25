@@ -1,2 +1,2 @@
 console.log("welcome to zenv");
-console.log("git is a version control software");
+console.log("github is an online platform to perform git");
